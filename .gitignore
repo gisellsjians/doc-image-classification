@@ -1,0 +1,15 @@
+# Dataset dan artefak besar (sesuai aturan tugas)
+data/
+checkpoint/*
+!checkpoint/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
