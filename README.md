@@ -1,4 +1,4 @@
-# Klasifikasi Dokumen Hasil Scan (RVL-CDIP) dengan PyTorch
+# Klasifikasi Dokumen Hasil Scan dengan PyTorch
 
 Tugas 2 Supervised Machine Learning. Membangun model neural network untuk mengklasifikasikan halaman dokumen hasil scan ke 16 kategori dokumen bisnis, dengan transfer learning ResNet18 yang dilatih sepenuhnya di CPU.
 
